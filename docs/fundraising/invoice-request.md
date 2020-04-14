@@ -1,7 +1,7 @@
 # Requesting an Invoice
 Note: anyone requesting an invoice must first be signed up as a [Volunteer Fundraiser](https://rebrand.ly/volunteer-fundraiser-policies) by signing the [Volunteer Agreement](https://rebrand.ly/bridge-foundry-volunteer-agreement).
 
-In order to receive payment from a sponsor, please complete the [Bridge Foundry Invoice Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdUBNaXJP_DwF9wOQCKid1MnVM0a6yU5-i_7hvny7IMqCNLKw/viewform). An electronic invoice will be sent to the recipient's email address you specified in the request form within a week at the most (usually within a couple of business days). You will know when it goes out, because we cc you on the email as well. If you don't see the invoice go out within a few days, feel free to follow up with us at finance@bridgefoundry.org. Please complete one form for each sponsor/payment.
+In order to receive payment from a sponsor, please complete the [Bridge Foundry Invoice Request Form](https://forms.gle/WrVmKxNRjZZaUhRW6). An electronic invoice will be sent to the recipient's email address you specified in the request form within a week at the most (usually within a couple of business days). You will know when it goes out, because we cc you on the email as well. If you don't see the invoice go out within a few days, feel free to follow up with us at finance@bridgefoundry.org. Please complete one form for each sponsor/payment.
 
 ## Payment Methods
 The sponsor may pay by any of the following methods once they receive the invoice:
@@ -19,7 +19,7 @@ Once you submit an invoice request, we will follow up to ensure payment comes th
 - After about a month with no payment, we remind the sponsor about paying
 - After about 2 months with no payment, we will ask you to follow up with the sponsor directly
 
-If you are curious about the status of the payment at any time, you can click on the original emailed invoice (it will be marked "Paid" in big letters if we have received payment). 
+If you are curious about the status of the payment at any time, you can click on the original emailed invoice (it will be marked "Paid" in big letters if we have received payment).
 
 If a donor check or payment is not received prior to an upcoming workshop, don’t worry! We will advance funds from the Bridge Foundry general fund to cover your expenses until we receive payment.
 
