@@ -22,7 +22,7 @@ Current corporate Officers:
 
 Legal & governance documents:
 
-* [Bylaws](https://drive.google.com/file/d/1DCZzsid3boBnBTu2g2T87rSlANTPZgne/view)
+* [Bylaws](https://drive.google.com/file/d/1DCZzsid3boBnBTu2g2T87rSlANTPZgne/view?usp=sharing)
 * [Certificate of Incorporation](https://drive.google.com/file/d/0B15PjYEwl2GNYzVvWURteXZMM00/view?resourcekey=0-_e-7ofdW6N4ipluU2hDFiA)
 * [Organization statement (elects the board)](https://drive.google.com/file/d/0B15PjYEwl2GNUktDdjV5eEZXRVU/view)
 * [Written consent of initial board of directors (adopts bylaws and elects officers)](https://drive.google.com/file/d/0BzPWVMj9wWa6dFFZV2ZtUU9UM2s/view)
