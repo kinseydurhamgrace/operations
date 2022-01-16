@@ -1,9 +1,11 @@
-name: CI
+name: Build and deploy website
 
 on:
   push:
     branches:
       - main
+    paths:
+      - docs/**
 
 jobs:
   deploy:
