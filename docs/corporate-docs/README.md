@@ -11,14 +11,13 @@ Current Board of Directors:
 
 * Sarah Allen, Chair
 * Melissa Xie
-* Eggya Chiquita
 * Isa Herico Velasco
 
 Current corporate Officers:
 
 * Sarah Allen, CEO (on leave)
 * Melissa Xie, Treasurer
-* Eggya Chiquita, Secretary
+* Isa Herico Velasco, Secretary
 
 Legal & governance documents:
 
@@ -48,6 +47,7 @@ We keep information with Personally Identifiable Information (PII) private.  Our
 
 ## History
 
+* Eggya Chiquita, Secretary 2/16/2020-2/13/2022
 * Ilen Zazueta-Hall, Chair 1/10/2018-12/31/2019
 * Karen Herreid, Treasurer
 
