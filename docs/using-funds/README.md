@@ -1,6 +1,6 @@
 # Using Funds
 
-Once you have [raised donations](https://github.com/bridgefoundry/operations/tree/master/fundraising) or received a grant for your group's activities, there are a few things to keep in mind for spending the money.
+Once you have [raised donations](../fundraising) or received a grant for your group's activities, there are a few things to keep in mind for spending the money.
 
 ## Approved Expenses
 All expenses must follow the [approved expenses policy](approved-expenses-policy.md). When in doubt about whether something follows the policy, ask us!
