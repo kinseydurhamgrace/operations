@@ -2,7 +2,7 @@ site_name: Bridge Foundry Operations
 docs_dir: docs/
 repo_url: https://github.com/bridgefoundry/operations
 theme: 'readthedocs'
-pages:
+nav:
 - "Home": 'index.md'
 - "Services":
     - "Overview": 'services/README.md'
