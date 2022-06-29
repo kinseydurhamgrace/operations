@@ -23,16 +23,22 @@ We use Firebase to serve the website to the world; talk to Sarah for access. Now
 2. `firebase login:ci`
 3. in [Travis Settings](https://travis-ci.org/bridgefoundry/operations/settings), deleted FIREBASE_TOKEN, add new one
 
+## Running Locally
 To generate the nicely-formatted site on your own computer, open up a
 terminal app and navigate to the folder with the operations
-guide. Then, run the following commands. Note that if you get any
-`Command not found` errors, you might need to run
-[get-pip.py](https://packaging.python.org/tutorials/installing-packages/)
-first.
+guide.
 
+1. Install Python and pip: [get-pip.py](https://packaging.python.org/tutorials/installing-packages/)
+
+2. Install virtualenv and `mkdocs`
 ```
+pip install virtualenv
 virtualenv tmp/docs-virtualenv
 tmp/docs-virtualenv/bin/pip install mkdocs
+```
+
+3. run the website locally:
+```
 tmp/docs-virtualenv/bin/mkdocs serve
 ```
 
