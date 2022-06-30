@@ -1,6 +1,6 @@
 # PEX Card
 
-A Pex Card works as a debit card and it is designed to add greater flexibility and accessibility to funds for Chapter and Bridge Leaders. 
+A Pex Card works as a debit card and it is designed to add greater flexibility and accessibility to funds for Chapter and Bridge Leaders.
 
 Each card costs us $7.50/month, so we need to reserve these cards for active Chapters and Bridges. Signing an agreement as a Chapter Leader or Bridge Leader qualifies you for a Pex card, and we ask that if you only expect to charge expenses to it very rarely, you consider doing reimbursements or direct pay instead so we can keep these maintenance fees lower.
 
@@ -26,4 +26,4 @@ When you receive your card in the mail, contact finance@bridgefoundry.org to act
 - **Monitor your funds:** You can check your account balance by logging in here: https://ch.pexcard.com/  The balance on our master accounting spreadsheet reflects total available funds, including what is on your Pex card. It does not indicate how much is on the card. You must make a request for us to transfer funds to Pex.
 
 
-- **Reporting:** Be sure to submit an expense report every month that there are any charges on the card. The report is due within 5 days of the end of the month. Failure to submit an expense report on time or any misuse of funds may result in the revocation of PEX Card privileges.  
+- **Reporting:** Be sure to submit an expense report every month that there are any charges on the card. The report is due within 5 days of the end of the month. Failure to submit an expense report on time or any misuse of funds may result in the revocation of PEX Card privileges.

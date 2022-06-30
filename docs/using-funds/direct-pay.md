@@ -14,7 +14,7 @@ finance@bridgefoundry.org
 Please [let us know](mailto:finance@bridgefoundry.org) if you expect a vendor to invoice us. The invoice from the vendor should also list your Chapter or Bridge name.
 
 ## Calling in Card Info
-In the rare circumstance that a Chapter or Bridge isn't able to use a Pex card or arrange for invoicing and can't afford to be reimbursed, we may be able to call your vendor with credit card information to arrange for faster payment. We do need advanced notice for this; allow a week but if you're in a jam reach out and we will do our best. Contact us at finance@bridgefoundry.org to inquire about this option.
+In the rare circumstance that a Chapter or Bridge isn't able to use a corporate card or arrange for invoicing and can't afford to be reimbursed, we may be able to call your vendor with credit card information to arrange for faster payment. We do need advanced notice for this; allow a week but if you're in a jam reach out and we will do our best. Contact us at finance@bridgefoundry.org to inquire about this option.
 
 ## Preferred vendors
 

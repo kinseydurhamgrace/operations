@@ -12,8 +12,8 @@ Bridge Foundry is committed to supporting you in putting on your workshop, so yo
 ## Accessing funds
 Whether funds for a workshop were obtained via a sponsorship or through a Bridge Foundry grant, there are multiple ways to get access to your fund.
 
-### Pex Card
-You can use a [Pex Card](pex-cards.md) if you have or are eligible for one. Restrictions apply.
+### Corporate Card
+You can use a [corporate debit card](corporate-cards.md) if you have or are eligible for one. Restrictions apply.
 
 ### Working with vendors
 You can have vendors invoice Bridge Foundry directly. In fact, it is preferred.

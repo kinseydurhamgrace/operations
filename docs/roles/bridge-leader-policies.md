@@ -16,8 +16,8 @@ As long as your Bridge remains active and works in a way that is consistent with
     * If the Bridge becomes inactive, we may seek out new leaders. When there are no leaders for a Bridge, we reserve the right to allocate the funds to other programs to support our mission.
 * Track financial transactions for your bridge in a location you can access to view history and bridge balance (currently via public spreadsheet)
 * Make it easy for your bridge leaders to spend funds available by:
-    * Providing a expense card for direct purchases to one bridge leader (currently via Pex)
-    * Providing reimbursements to all bridge leaders (currently via Expensify)
+    * Providing a expense card for direct purchases to one bridge leader
+    * Providing reimbursements to all bridge leaders
 * Facilitate access to discounts and benefits available via our non profit structure where possible
     * This is dependent on a) what we can practically support, and b) ensuring equal access for all bridges
     * In many cases this is as simple as providing our tax exemption letter so that a donor will make an in-kind donation or provide a discount
