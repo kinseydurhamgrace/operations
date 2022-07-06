@@ -18,8 +18,8 @@ As long as your Program remains active and works in a way that is consistent wit
     * If the program becomes inactive, we reserve the right to allocate the funds elsewhere in support of our mission.
 * Track financial transactions for your program in a location you can access to view history and program balance (currently via public spreadsheet)
 * Make it easy for your program leaders to spend funds available to it by:
-    * Providing an expense card for direct purchases to one program leader (currently via Pex)
-    * Providing reimbursements to all program leaders (currently via Expensify)
+    * Providing an expense card for direct purchases to one program leader
+    * Providing reimbursements to all program leaders
 * Facilitate access to discounts and benefits available via our nonprofit structure where possible
     * This is dependent on a) what we can practically support, and b) ensuring equal access for all programs
     * In many cases this is as simple as providing our tax exemption letter so that a donor will make an in-kind donation or provide a discount
@@ -44,5 +44,5 @@ By signing the Volunteer Agreement, Program Leaders agree to:
 
 * Keep their expense card in a safe location and not share it with anyone else.
 * Spend funds only on approved expense categories, according to [approved expenses policy](https://rebrand.ly/bf-approved-expenses-policy).
-* Submit receipts for all expense card purchases by the 5th day of the month following the month they were incurred. (currently via Expensify)
+* Submit receipts for all expense card purchases by the 5th day of the month following the month they were incurred.
 * Submit receipts for all expenses to be reimbursed within a month.
