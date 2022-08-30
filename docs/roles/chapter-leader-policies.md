@@ -16,8 +16,8 @@ As long as your Chapter remains active and works in a way that is consistent wit
     * If the chapter reverts to a Community Chapter, we reserve the right to allocate the funds elsewhere. AND, we will check in with you before that change to understand if you have workshops planned as a Community Chapter so we can use the remaining funds for a grant to the chapter. 
 * Track financial transactions for your chapter in a location you can access to view history and chapter balance (currently via public spreadsheet)
 * Make it easy for your chapter leaders to spend funds available to it by:
-    * Providing an expense card for direct purchases to one chapter leader (currently via Pex)
-    * Providing reimbursements to all chapter leaders (currently via Expensify)
+    * Providing an expense card for direct purchases to one chapter leader
+    * Providing reimbursements to all chapter leaders
 * Facilitate access to discounts and benefits available via our non profit structure where possible
     * This is dependent on a) what we can practically support, and b) ensuring equal access for all chapters
     * In many cases this is as simple as providing our tax exemption letter so that a donor will make an in-kind donation or provide a discount
@@ -42,5 +42,5 @@ By signing the Volunteer Agreement, Chapter Leaders agree to:
 
 * Keep their expense card in a safe location and not share it with anyone else.
 * Spend funds only on approved expense categories, according to [approved expenses policy](https://rebrand.ly/bf-approved-expenses-policy).
-* Submit receipts for all expense card purchases by the 5th day of the month following the month they were incurred. (currently via Expensify)
+* Submit receipts for all expense card purchases by the 5th day of the month following the month they were incurred.
 * Submit receipts for all expenses to be reimbursed within a month, following the workshop.

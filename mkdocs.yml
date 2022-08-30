@@ -1,6 +1,7 @@
 site_name: Bridge Foundry Operations
 docs_dir: docs/
 repo_url: https://github.com/bridgefoundry/operations
+edit_uri: edit/main/docs/ 
 theme: 'readthedocs'
 nav:
 - "Home": 'index.md'
@@ -28,7 +29,7 @@ nav:
     - "Approved expenses policy": 'using-funds/approved-expenses-policy.md'
     - "Direct pay": 'using-funds/direct-pay.md'
     - "Expense reports": 'using-funds/expense-reports.md'
-    - "Pex cards": 'using-funds/pex-cards.md'
+    - "Corporate cards": 'using-funds/corporate-cards.md'
 - "Monitoring funds": 'monitoring-funds.md'
 - "Internal process":
     - "Overview": 'internal-process/README.md'
